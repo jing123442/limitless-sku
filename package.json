@@ -1,0 +1,33 @@
+{
+  "name": "limitless-sku",
+  "version": "1.0.0",
+  "description": "use canvas to created infinite scroll  sku table",
+  "main": "index.js",
+  "browser": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jing123442/limitless-sku.git"
+  },
+  "keywords": [
+    "infinite-scroll",
+    "sku",
+    "canvas"
+  ],
+  "author": "jing123442",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jing123442/limitless-sku/issues"
+  },
+  "homepage": "https://github.com/jing123442/limitless-sku#readme",
+  "devDependencies": {
+    "rollup": "^2.70.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.2"
+  }
+}
